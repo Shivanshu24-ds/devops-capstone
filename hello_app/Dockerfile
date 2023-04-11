@@ -1,6 +1,6 @@
 FROM python:3.7-slim-buster
 
-LABEL author="ga.ampie@gmail.com"
+LABEL author="shivanshupandey.ds@gmail.com"
 
 # Working Directory
 WORKDIR /app

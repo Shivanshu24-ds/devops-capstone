@@ -8,7 +8,7 @@ A demo python/flask app that simply returns "Hello World"
 
 ## Run
 
-`docker run -t --rm -p 8080:80 gampie/hello-app:TAGNAME`
+`docker run -t --rm -p 8080:80 shivanshup/hello-app:TAGNAME`
 
 ## Repository
 

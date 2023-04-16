@@ -13,7 +13,7 @@ KUBECTL=./bin/kubectl
 
 setup:
 	# Create a python virtualenv & activate it
-	python3 -m venv ~/.devops-capstone
+	python -m venv ~/.devops-capstone
 	# source ~/.devops-capstone/bin/activate 
 
 install:	# TODO: Add a Docker analysis (DevSecOps)

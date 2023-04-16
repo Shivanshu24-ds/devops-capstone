@@ -20,7 +20,7 @@ install:	# TODO: Add a Docker analysis (DevSecOps)
 	# This should be run from inside a virtualenv
 	echo "Installing: dependencies..."
 	pip install --upgrade pip &&\
-	pip install -r hello_app/requirements.txt
+		pip install -r hello_app/requirements.txt
 	# pip install "ansible-lint[community,yamllint]"
 	echo
 	pytest --version

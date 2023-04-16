@@ -5,7 +5,7 @@
 DOCKER_HUB_ID="shivanshup"
 DOCKER_REPOSITORY="hello-app"
 VERSION="1.000"
-
+DOCKER_LOGIN="shivanshup"
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
